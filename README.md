@@ -1,4 +1,4 @@
-# Kama kepar Repo
+# WBash Tools Repo
 
 Add this to /etc/apt/sources.list
 ```bash
