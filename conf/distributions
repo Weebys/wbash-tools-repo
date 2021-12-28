@@ -1,0 +1,10 @@
+Origin: Debian
+Suite: master
+AlsoAcceptFor: unstable experimental
+Codename: master
+Version: 5.0
+Architectures: amd64 aarch64 i386 source
+Components: main contrib non-free
+UDebComponents: main contrib non-free
+Description: Weebys Repository
+SignWith: 375F4D7D0505A9B7FDD3FD530BF2D0B64EBAA63D

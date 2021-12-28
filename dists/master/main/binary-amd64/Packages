@@ -1,0 +1,14 @@
+Package: wfcsearch
+Version: 1.0-1
+Architecture: amd64
+Depends: bash
+Maintainer: Weebys Space <support@weebys.space>
+Priority: include*
+Section: misc
+Filename: pool/main/w/wfcsearch/wfcsearch_1.0-1_amd64.deb
+Size: 984
+SHA256: 477035983551ebccb0f09e435937eed92bd5b14311bb826a4c4e2093b5eb6771
+SHA1: 9b88123117213e31719213e38a2d8f3ef2d53873
+MD5sum: a498b5369c433fa4544efff376063b4e
+Description: WFCSearch is a package, which can search in the directory, loostring iside every file in this directory.
+
