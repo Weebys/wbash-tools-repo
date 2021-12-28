@@ -2,7 +2,7 @@
 
 Add this to /etc/apt/sources.list
 ```bash
-deb https://wbash.weebys.space all main
+deb http://wbash.weebys.space all master
 ```
 
 Then execute such commands
