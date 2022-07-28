@@ -1,0 +1,12 @@
+if [ -n "$2" ];
+then
+for file in `find $1 -type f`; do
+    gh=$(cat $file | grep $2)
+    if [ -n "$gh" ];
+    then
+       echo $file;
+    fi
+done
+else
+echo "To search any amount of file and contents in it, please use syntax: $0 [file] [string]"
+fi
